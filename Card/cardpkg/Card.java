@@ -3,7 +3,8 @@ Alice Lily
 Creates the Card class - a digital representation of a playing card.
 Each card object created with the class has a suit and a face, and those
 values can be displayed back to the individual via integer or text.
-toString method neatly displays the face and suit in text. 				*/
+toString method neatly displays the face and suit in text. 		*/
+
 package cardpkg;
 import java.util.Random;
 
